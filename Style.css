@@ -1,0 +1,23 @@
+body { background: light #ffaf91;
+    color: black;
+    font-size: 14pt; }
+body { font-family: 'Oswald', sans-serif; }
+
+nav a { display: inline-block }
+
+nav a { border: 2px Dark #000000
+}
+
+nav a { padding: 10px;
+    margin: 5px;
+    background: deepskyblue }
+
+
+a { color: #110006; }
+
+a:hover { color: red }
+
+.title { font-weight: bold;
+    text-decoration: underline; }
+
+
